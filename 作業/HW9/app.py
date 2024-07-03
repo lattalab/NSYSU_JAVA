@@ -46,9 +46,9 @@ for row in rows:
             cash_sell.append(0.0) # 要是皆為無效值，設為0
         
 # YOUR_CHANNEL_ACCESS_TOKEN
-line_bot_api = LineBotApi('MMfWZu1Nu6FMrpWc9Olnvuy881/p+GA/Zq0Wxuds63lvQQA1ivInF7y6dUN7QptSK8arn/Hv+tsJ4oKPS6wr2o7AZwuvW0MSe/acx3Jxt/rHmWMrtQjQkbemGTDWqojNeNbffN3mxninD+vFtbUoKAdB04t89/1O/w1cDnyilFU=')
+line_bot_api = LineBotApi('YOUR_CHANNEL_ACCESS_TOKEN')
 # YOUR_CHANNEL_SECRET
-handler = WebhookHandler('4e973264b2896d676d96c1e222d33706')
+handler = WebhookHandler('YOUR_CHANNEL_SECRET')
 app = Flask(__name__) 
 
 @app.route("/callback", methods=['POST'])
