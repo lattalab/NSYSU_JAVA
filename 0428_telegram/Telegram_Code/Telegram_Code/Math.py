@@ -64,7 +64,7 @@ def Create_Data(text, result, file):
 
 
 def main():
-    updater = telegram.ext.Updater(token="6119764474:AAFWPaxXuUvdVs8u5VIlE9DBmKHhQjazV_Y", use_context=True)
+    updater = telegram.ext.Updater(token="", use_context=True)
     dispatcher = updater.dispatcher
     start_handler = CommandHandler('math', Select_Command)
     Select_handler = MessageHandler(Filters.text & (~Filters.command), Select_text)
