@@ -1,0 +1,2 @@
+run ran Run a fox dog doges DOG FOXES fly flew flown DoG Alumnus alumni
+This is a test file. It has several sentences, some of which repeat the same words. The quick brown fox jumped over the lazy dog. The lazy dog slept all day. The quick brown fox was very fast. The quick brown fox was faster than the lazy dog. The lazy dog was very lazy. The quick brown fox liked to run. The lazy dog liked to sleep. This is the end of the test file.

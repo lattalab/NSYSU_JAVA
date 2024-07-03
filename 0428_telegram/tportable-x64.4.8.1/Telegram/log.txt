@@ -1,0 +1,139 @@
+[2023.04.28 09:30:04] Launched version: 4008001, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2023.04.28 09:30:04] Executable dir: D:/ancode/OOPLecture/0428_telegram/tportable-x64.4.8.1/Telegram/, name: Telegram.exe
+[2023.04.28 09:30:04] Initial working dir: D:/ancode/OOPLecture/0428_telegram/tportable-x64.4.8.1/Telegram/
+[2023.04.28 09:30:04] Working dir: D:/ancode/OOPLecture/0428_telegram/tportable-x64.4.8.1/Telegram/
+[2023.04.28 09:30:04] Command line: D:\ancode\OOPLecture\0428_telegram\tportable-x64.4.8.1\Telegram\Telegram.exe
+[2023.04.28 09:30:04] Executable path before check: D:/ancode/OOPLecture/0428_telegram/tportable-x64.4.8.1/Telegram/Telegram.exe
+[2023.04.28 09:30:04] Logs started
+[2023.04.28 09:30:05] Connecting local socket to Global\0e99f7e9dc1e12edd6a632c949ebbdd1-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2023.04.28 09:30:05] This is the only instance of Telegram, starting server and app...
+[2023.04.28 09:30:05] Moved logging from 'D:/ancode/OOPLecture/0428_telegram/tportable-x64.4.8.1/Telegram/log_start0.txt' to 'D:/ancode/OOPLecture/0428_telegram/tportable-x64.4.8.1/Telegram/log.txt'!
+[2023.04.28 09:30:05] Global devicePixelRatio: 1
+[2023.04.28 09:30:05] QT_DPI_ADJUSTMENT_POLICY: AdjustDpi
+[2023.04.28 09:30:05] Primary screen DPI: 120, Base: 96.
+[2023.04.28 09:30:05] Computed screen scale: 125
+[2023.04.28 09:30:05] DevicePixelRatio: 1
+[2023.04.28 09:30:05] ScreenScale: 125
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2023.04.28 09:30:05] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.04.28 09:30:06] Using DirectX compiler 'D:\ancode\OOPLecture\0428_telegram\tportable-x64.4.8.1\Telegram\modules\x64\d3d\d3dcompiler_47.dll'.
+[2023.04.28 09:30:06] App Info: reading settings...
+[2023.04.28 09:30:06] App Info: reading encrypted settings...
+[2023.04.28 09:30:06] Lang Info: Loaded cached, keys: 4996
+[2023.04.28 09:30:06] OpenAL Logging Level: (not set)
+[2023.04.28 09:30:06] Audio Playback Devices: OpenAL Soft on 喇叭 (Realtek(R) Audio)
+[2023.04.28 09:30:06] Audio Playback Default Device: OpenAL Soft on 喇叭 (Realtek(R) Audio)
+[2023.04.28 09:30:06] Audio Capture Devices: OpenAL Soft on 麥克風 (Realtek(R) Audio)
+[2023.04.28 09:30:06] Audio Capture Default Device: OpenAL Soft on 麥克風 (Realtek(R) Audio)
+[2023.04.28 09:30:07] App Info: reading accounts info...
+[2023.04.28 09:30:07] App Info: reading encrypted info...
+[2023.04.28 09:30:07] App Info: reading map...
+[2023.04.28 09:30:07] App Info: reading encrypted map...
+[2023.04.28 09:30:07] App Info: could not read encrypted user settings...
+[2023.04.28 09:30:07] App Info: writing encrypted user settings...
+[2023.04.28 09:30:07] App Info: reading encrypted mtp data...
+[2023.04.28 09:30:07] MTP Info: read keys, current: 2, to destroy: 0
+[2023.04.28 09:30:07] Map read time: 13
+[2023.04.28 09:30:07] App Info: reading encrypted mtp config...
+[2023.04.28 09:30:07] Export Info: Destroy top bar by controller removal.
+[2023.04.28 09:30:07] OpenGL: Using custom 'gpu_driver_bug_list.json'.
+[2023.04.28 09:30:07] OpenGL Profile: OpenGLES.
+[2023.04.28 09:30:07] OpenGL Renderer: ANGLE (Intel, Intel(R) UHD Graphics Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8190)
+[2023.04.28 09:30:07] OpenGL Vendor: Google Inc. (Intel)
+[2023.04.28 09:30:07] OpenGL Version: OpenGL ES 3.0.0 (ANGLE 2.1.7 git hash: 0bb011f9e403)
+[2023.04.28 09:30:07] OpenGL Extensions: GL_OES_element_index_uint, GL_ANGLE_multi_draw, GL_OES_compressed_EAC_R11_signed_texture, GL_OES_compressed_ETC2_RGB8_texture, GL_EXT_color_buffer_half_float, GL_ANGLE_request_extension, GL_OES_EGL_image, GL_EXT_blend_func_extended, GL_OES_texture_stencil8, GL_EXT_draw_buffers_indexed, GL_KHR_parallel_shader_compile, GL_ANGLE_program_cache_control, GL_ANGLE_texture_multisample, GL_EXT_texture_format_BGRA8888, GL_OES_texture_half_float_linear, GL_EXT_frag_depth, GL_ANGLE_memory_size, GL_OES_compressed_ETC2_RGBA8_texture, GL_ANGLE_texture_compression_dxt5, GL_EXT_float_blend, GL_EXT_map_buffer_range, GL_NV_pack_subimage, GL_CHROMIUM_copy_compressed_texture, GL_EXT_multisampled_render_to_texture, GL_EXT_robustness, GL_EXT_shader_texture_lod, GL_ANGLE_framebuffer_blit, GL_OES_texture_npot, GL_OVR_multiview, GL_ANGLE_robust_client_memory, GL_OES_compressed_ETC2_sRGB8_texture, GL_OES_get_program_binary, GL_OES_texture_half_float, GL_ANGLE_lossy_etc_decode, GL_OES_texture_border_clamp, GL_ANGLE_get_serialized_context_string, GL_OES_texture_float_linear, GL_OES_surfaceless_context, GL_OES_fbo_render_mipmap, GL_ANGLE_texture_usage, GL_OES_draw_buffers_indexed, GL_OVR_multiview2, GL_ANGLE_instanced_arrays, GL_EXT_texture_compression_s3tc_srgb, GL_EXT_draw_elements_base_vertex, GL_EXT_texture_rg, GL_OES_EGL_image_external, GL_OES_compressed_EAC_RG11_unsigned_texture, GL_OES_compressed_ETC2_sRGB8_alpha8_texture, GL_EXT_texture_compression_rgtc, GL_ANGLE_explicit_context_gles1, GL_ANGLE_texture_compression_dxt3, GL_EXT_sRGB, GL_EXT_texture_compression_bptc, GL_KHR_debug, GL_OES_packed_depth_stencil, GL_CHROMIUM_sync_query, GL_CHROMIUM_copy_texture, GL_EXT_texture_storage, GL_OES_compressed_EAC_RG11_signed_texture, GL_NV_fence, GL_EXT_debug_marker, GL_OES_compressed_ETC2_punchthroughA_sRGB8_alpha_texture, GL_OES_draw_elements_base_vertex, GL_ANGLE_base_vertex_base_instance, GL_ANGLE_get_tex_level_parameter, GL_OES_rgb8_rgba8, GL_EXT_blend_minmax, GL_OES_texture_float, GL_EXT_disjoint_timer_query, GL_NV_EGL_stream_consumer_external, GL_ANGLE_pack_reverse_row_order, , GL_CHROMIUM_bind_generates_resource, GL_ANGLE_explicit_context, GL_EXT_read_format_bgra, GL_OES_EGL_image_external_essl3, GL_ANGLE_multiview_multisample, GL_EXT_discard_framebuffer, GL_ANGLE_framebuffer_multisample, GL_OES_vertex_array_object, GL_EXT_texture_norm16, GL_EXT_instanced_arrays, GL_OES_standard_derivatives, GL_WEBGL_video_texture, GL_ANGLE_client_arrays, GL_CHROMIUM_bind_uniform_location, GL_OES_compressed_ETC2_punchthroughA_RGBA8_texture, GL_OES_depth24, GL_OES_compressed_EAC_R11_unsigned_texture, GL_ANGLE_translated_shader_source, GL_EXT_draw_buffers, GL_EXT_occlusion_query_boolean, GL_NV_pixel_buffer_object, GL_CHROMIUM_lose_context, GL_EXT_texture_filter_anisotropic, GL_OES_depth32, GL_EXT_texture_compression_dxt1, GL_EXT_color_buffer_float, GL_EXT_debug_label, GL_EXT_EGL_image_external_wrap_modes, GL_ANGLE_depth_texture, GL_ANGLE_provoking_vertex, GL_ANGLE_copy_texture_3d, GL_EXT_unpack_subimage, GL_OES_mapbuffer
+[2023.04.28 09:30:07] EGL Extensions: EGL_EXT_create_context_robustness, EGL_ANGLE_d3d_share_handle_client_buffer, EGL_ANGLE_d3d_texture_client_buffer, EGL_ANGLE_surface_d3d_texture_2d_share_handle, EGL_ANGLE_query_surface_pointer, EGL_ANGLE_window_fixed_size, EGL_ANGLE_keyed_mutex, EGL_ANGLE_surface_orientation, EGL_ANGLE_direct_composition, EGL_ANGLE_windows_ui_composition, EGL_NV_post_sub_buffer, EGL_KHR_create_context, EGL_KHR_image, EGL_KHR_image_base, EGL_KHR_gl_texture_2D_image, EGL_KHR_gl_texture_cubemap_image, EGL_KHR_gl_renderbuffer_image, EGL_KHR_get_all_proc_addresses, EGL_KHR_stream, EGL_KHR_stream_consumer_gltexture, EGL_NV_stream_consumer_gltexture_yuv, EGL_ANGLE_flexible_surface_compatibility, EGL_ANGLE_stream_producer_d3d_texture, EGL_ANGLE_create_context_webgl_compatibility, EGL_CHROMIUM_create_context_bind_generates_resource, EGL_CHROMIUM_sync_control, EGL_EXT_pixel_format_float, EGL_KHR_surfaceless_context, EGL_ANGLE_display_texture_share_group, EGL_ANGLE_display_semaphore_share_group, EGL_ANGLE_create_context_client_arrays, EGL_ANGLE_program_cache_control, EGL_ANGLE_robust_resource_initialization, EGL_ANGLE_create_context_extensions_enabled, EGL_ANDROID_blob_cache, EGL_ANDROID_recordable, EGL_ANGLE_image_d3d11_texture, EGL_ANGLE_create_context_backwards_compatible, EGL_KHR_create_context_no_error, EGL_KHR_reusable_sync, 
+[2023.04.28 09:30:07] OpenGL: QOpenGLContext created, version: 3.3.
+[2023.04.28 09:30:07] OpenGL: [TRUE] (Window)
+[2023.04.28 09:38:00] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2023.04.28 09:38:00] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2023.04.28 09:38:00] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2023.04.28 09:38:00] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2023.04.28 09:38:00] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2023.04.28 09:38:00] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2023.04.28 09:38:00] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2023.04.28 09:38:00] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2023.04.28 09:38:00] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2023.04.28 09:38:00] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2023.04.28 09:38:00] API Warning: emoji 🇩🇬 is not supported, word: diego garcia.
+[2023.04.28 09:38:00] API Warning: emoji 🧑‍🤝‍🧑 is not supported, word: bf.
+[2023.04.28 09:38:00] API Warning: emoji 🇹🇦 is not supported, word: ta.
+[2023.04.28 09:38:00] API Warning: emoji 🇦🇨 is not supported, word: ascension island.
+[2023.04.28 09:38:00] API Warning: emoji 🛝 is not supported, word: slide.
+[2023.04.28 09:38:00] API Warning: emoji 🇦🇨 is not supported, word: ac.
+[2023.04.28 09:38:00] API Warning: emoji 🇦🇨 is not supported, word: flag_ac.
+[2023.04.28 09:38:00] API Warning: emoji 🇹🇦 is not supported, word: tristan da cunha.
+[2023.04.28 09:38:00] API Warning: emoji 🇩🇬 is not supported, word: british indian ocean territory.
+[2023.04.28 09:38:00] API Warning: emoji 🇹🇦 is not supported, word: flag_ta.
+[2023.04.28 09:38:00] API Warning: emoji 🇲🇫 is not supported, word: st. martin.
+[2023.04.28 09:38:00] API Warning: emoji 🇪🇦 is not supported, word: ceuta & melilla.
+[2023.04.28 09:38:01] App Error: Can't read history till unknown local message.
+[2023.04.28 09:38:01] App Error: Can't read history till unknown local message.
+[2023.04.28 09:38:01] App Error: Can't read history till unknown local message.
+[2023.04.28 09:38:02] Skipping message, because it is already in blocks!
+[2023.04.28 09:38:14] Message Info: bad message notification received (error_code 33) for msg_id = 7226909082697937232, seq_no = 36
+[2023.04.28 09:38:14] Message Info: bad message notification received, msgId 7226909082697937232, error_code 33
+[2023.04.28 09:38:19] Message Info: bad message notification received (error_code 33) for msg_id = 7226909104249195712, seq_no = 308
+[2023.04.28 09:38:19] Message Info: bad message notification received, msgId 7226909104249195712, error_code 33
+[2023.04.28 09:38:19] Message Info: bad message notification received (error_code 33) for msg_id = 7226909104179352848, seq_no = 50
+[2023.04.28 09:38:19] Message Info: bad message notification received, msgId 7226909104179352848, error_code 33
+[2023.04.28 09:38:19] Message Info: bad message notification received (error_code 33) for msg_id = 7226909104423709684, seq_no = 74
+[2023.04.28 09:38:19] Message Info: bad message notification received, msgId 7226909104423709684, error_code 33
+[2023.04.28 09:38:19] Message Info: bad message notification received (error_code 33) for msg_id = 7226909104296618320, seq_no = 36
+[2023.04.28 09:38:19] Message Info: bad message notification received, msgId 7226909104296618320, error_code 33
+[2023.04.28 10:27:02] Skipping message, because it is already in blocks!
+[2023.04.28 10:32:17] Skipping message, because it is already in blocks!
+[2023.04.28 10:32:51] Skipping message, because it is already in blocks!
+[2023.04.28 10:33:10] Skipping message, because it is already in blocks!
+[2023.04.28 10:33:55] Skipping message, because it is already in blocks!
+[2023.04.28 10:34:31] Skipping message, because it is already in blocks!
+[2023.04.28 10:34:51] RPC Error: request 558 got fail with code 400, error MESSAGE_NOT_MODIFIED
+[2023.04.28 10:35:13] Skipping message, because it is already in blocks!
+[2023.04.28 10:35:31] Skipping message, because it is already in blocks!
+[2023.04.28 10:35:39] Skipping message, because it is already in blocks!
+[2023.04.28 10:42:46] Skipping message, because it is already in blocks!
+[2023.04.28 10:49:21] App Error: Can't read history till unknown local message.
+[2023.04.28 10:49:21] App Error: Can't read history till unknown local message.
+[2023.04.28 10:49:21] App Error: Can't read history till unknown local message.
+[2023.04.28 10:49:21] App Error: Can't read history till unknown local message.
+[2023.04.28 10:49:21] Skipping message, because it is already in blocks!
+[2023.04.28 10:49:35] Skipping message, because it is already in blocks!
+[2023.04.28 10:49:43] Skipping message, because it is already in blocks!
+[2023.04.28 10:50:38] Skipping message, because it is already in blocks!
+[2023.04.28 10:50:39] Skipping message, because it is already in blocks!
+[2023.04.28 10:59:21] Skipping message, because it is already in blocks!
+[2023.04.28 10:59:26] Skipping message, because it is already in blocks!
+[2023.04.28 11:11:37] Skipping message, because it is already in blocks!
+[2023.04.28 11:11:50] Skipping message, because it is already in blocks!
+[2023.04.28 11:11:57] Skipping message, because it is already in blocks!
+[2023.04.28 11:12:04] Skipping message, because it is already in blocks!
+[2023.04.28 11:12:06] Skipping message, because it is already in blocks!
+[2023.04.28 11:12:16] Skipping message, because it is already in blocks!
+[2023.04.28 11:12:26] Skipping message, because it is already in blocks!
+[2023.04.28 11:12:28] Skipping message, because it is already in blocks!
+[2023.04.28 11:12:31] Skipping message, because it is already in blocks!
+[2023.04.28 11:12:40] Skipping message, because it is already in blocks!
+[2023.04.28 11:12:42] Skipping message, because it is already in blocks!
+[2023.04.28 11:12:45] Skipping message, because it is already in blocks!
+[2023.04.28 11:16:25] Skipping message, because it is already in blocks!
+[2023.04.28 11:16:28] Skipping message, because it is already in blocks!
+[2023.04.28 11:16:32] Skipping message, because it is already in blocks!
+[2023.04.28 11:16:38] Skipping message, because it is already in blocks!
+[2023.04.28 13:33:43] Audio Info: OnDeviceStateChanged("{0.0.0.00000000}.{f4ab5ba0-57f8-4896-ab89-5a4e4ce055a7}", 1) scheduling detach from audio device.
+[2023.04.28 13:33:43] Audio Info: OnDefaultDeviceChanged() scheduling detach from audio device, flow 0, role 0, new_default_device_id: "{0.0.0.00000000}.{f4ab5ba0-57f8-4896-ab89-5a4e4ce055a7}"
+[2023.04.28 13:33:43] Audio Info: skipping OnDefaultDeviceChanged() flow 0, role 1, new_default_device_id: "{0.0.0.00000000}.{f4ab5ba0-57f8-4896-ab89-5a4e4ce055a7}"
+[2023.04.28 13:33:43] Audio Info: OnDefaultDeviceChanged() scheduling detach from audio device, flow 0, role 2, new_default_device_id: "{0.0.0.00000000}.{f4ab5ba0-57f8-4896-ab89-5a4e4ce055a7}"
+[2023.04.28 13:37:05] Audio Info: OnDeviceStateChanged("{0.0.0.00000000}.{f4ab5ba0-57f8-4896-ab89-5a4e4ce055a7}", 8) scheduling detach from audio device.
+[2023.04.28 13:37:05] Audio Info: OnDefaultDeviceChanged() scheduling detach from audio device, flow 0, role 0, new_default_device_id: "{0.0.0.00000000}.{8539772e-7ca9-454b-bdd9-54dfe26cfbbd}"
+[2023.04.28 13:37:05] Audio Info: skipping OnDefaultDeviceChanged() flow 0, role 1, new_default_device_id: "{0.0.0.00000000}.{8539772e-7ca9-454b-bdd9-54dfe26cfbbd}"
+[2023.04.28 13:37:05] Audio Info: OnDefaultDeviceChanged() scheduling detach from audio device, flow 0, role 2, new_default_device_id: "{0.0.0.00000000}.{8539772e-7ca9-454b-bdd9-54dfe26cfbbd}"
