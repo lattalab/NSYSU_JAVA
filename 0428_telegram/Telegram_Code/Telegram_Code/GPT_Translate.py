@@ -67,7 +67,7 @@ def Create_Data(text, result, file):
 
 
 def main():
-    updater = telegram.ext.Updater(token='5457554547:AAFcoYM-nQfKSS0yA7kXgCyWuwjIqxvkv9w', use_context=True)
+    updater = telegram.ext.Updater(token='', use_context=True)
     dispatcher = updater.dispatcher
     start_handler = CommandHandler('translate', translate_Command)
     translate_handler = MessageHandler(Filters.text & (~Filters.command), translate_text)
