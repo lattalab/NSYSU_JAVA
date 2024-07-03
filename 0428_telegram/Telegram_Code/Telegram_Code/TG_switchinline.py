@@ -31,7 +31,7 @@ def inlinequery(update, context):
         update.inline_query.answer([])
 
 # 建立updater和dispatcher
-updater = Updater(token='6220870570:AAFeEazKD8HHkshP3tYfGU-YBpPKjU_MviE', use_context=True)
+updater = Updater(token='', use_context=True)
 dispatcher = updater.dispatcher
 
 # 加入inline query handler
